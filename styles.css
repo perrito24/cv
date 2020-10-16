@@ -1,0 +1,21 @@
+﻿body {
+    background: #ffc93c;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: medium;
+    border-color: slategray;
+    width: 30%;
+}
+
+h1{
+    color: darkred;
+}
+h2{
+    color: darkred;
+}
+h3{
+    color: darkred;
+}
